@@ -2,7 +2,7 @@
 - 👀 I’m keen to learn new things
 - 🌱 I’m currently learning rust with DSA
 - Professionally 15+ years of Fullstack developer experience
--   currenly a Fullstack Lead (JAVA + Angular) with Technical Architect Role
+
 * well known technologies
   * JAVA 8,11,17 Professionally (v21+ POCs) with Spring boot v2 to v3, Hibernate v4 to v6
   * UI Angular v4+ to v17 professionally (v18+ POCs) and in past worked with jQuery and pure javascript on dynamic screen building
